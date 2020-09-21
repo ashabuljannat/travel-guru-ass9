@@ -1,0 +1,10 @@
+
+.book img{
+    left: 55%;position: absolute;top: 62px;
+}
+.bookAll img{
+    height: 200px;width: 300px;color: yellow;position: absolute;margin:10px 10px 20px 80px;
+}
+.bookAll .title{
+color:yellow;height: 200px;width: 300px;position: relative;left: 400px;top: 10px;
+}
